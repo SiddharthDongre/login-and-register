@@ -1,0 +1,33 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+}
+
+#home {
+
+    height: 87vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#home h1{
+
+    font-size: 30px;
+}
+
+#home button {
+
+    height: 35px;
+    width: 100px;
+    font-size: 20px;
+    padding: 0px 7px;
+    margin: 10px 0px;
+    border-radius: 5px;
+    color: white;
+    background-color: brown;
+    border: 1px solid white;
+    cursor: pointer;
+}
